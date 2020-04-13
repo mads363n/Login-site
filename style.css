@@ -79,3 +79,8 @@ border-radius: 20px;
     line-height: 20px;
     color: darkgrey;
 }
+.loginbox a:hover
+{
+    color: #ffc107;
+    
+}
