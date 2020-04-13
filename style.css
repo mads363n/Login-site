@@ -98,7 +98,7 @@ h1{
 
 .loginbox a1:hover
 {
-    text-align: right;
+    text-align-last: right;
     cursor: pointer;
     color: #ffc107;
 }
