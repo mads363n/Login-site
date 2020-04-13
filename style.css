@@ -99,5 +99,11 @@ h1{
 .loginbox a1:hover
 {
     color: #ffc107;
+}
 
+.loginbox a1: input[type="submit"]:hover
+{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
 }
