@@ -101,7 +101,18 @@ h1{
     color: #ffc107;
 }
 
-.loginbox a1: input[type="submit"]:hover
+.a1 input[type="submit"]
+{
+  border: none;
+  outline: none;
+  height: 40px;
+  background: #fb2525;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 20px;
+}
+
+.a1: input[type="submit"]:hover
 {
     cursor: pointer;
     background: #ffc107;
